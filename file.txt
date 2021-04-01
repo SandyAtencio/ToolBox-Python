@@ -1,0 +1,2 @@
+Este es un archivo de conexion ... primera linea
+Este es un archivo de conexion ... segunda linea
